@@ -74,7 +74,7 @@ plt.ylabel('Proportion of Goals')
 plt.legend(["No Goal",'Goal'])
 
 distanceTable=pd.crosstab(first1000.distance,first1000.goal)
-table.div(distanceTable.sum(1).astype(float), axis=0).plot(kind='bar', stacked=True)
+distanceTable.div(distanceTable.sum(1).astype(float), axis=0).plot(kind='bar', stacked=True)
 plt.title('Shot Distance vs If Goal Was Scored')
 plt.xlabel('Shot Distance')
 plt.ylabel('Proportion of Goals')
