@@ -1,4 +1,3 @@
-# expectedGoalsModel
 <h1>NHL Expected Goals Model</h1>
 <p>Using logistic regression to build an expected goals model to predict the probability that a goal is scored in the National Hockey League. The model takes a variety of factors and then mathematically assigns a number to each shot attempt. The data for this model covers shot attempts from the 2021 NHL season excluding shots that were taken on an empty net. Thank you <a href = "moneypuck.com">Money Puck</a> for making this data available. </p>
 <h2>Model Features</h2>
