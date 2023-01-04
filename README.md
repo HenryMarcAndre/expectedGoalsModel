@@ -12,6 +12,6 @@
 </ul>
 <h2>Evaluating the Features</h2>
 <p></p>
-<img src="shotType.png" height="300" width ='320'>
+<img src="shotType.png" height="300" width ='300'>
 <p>You can see the code being run <a href="https://colab.research.google.com/drive/16V5SN0AYS3w-wqFWQSIGVMnPcS47bgw-?usp=sharing">here</a>.</p>
 
